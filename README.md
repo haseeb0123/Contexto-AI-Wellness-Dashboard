@@ -2,15 +2,17 @@
 
 Contexto AI is a cutting-edge **Flutter** application that leverages real-time smartphone sensor data (Accelerometer) and processes it using the **Llama 3.3 70B model (via Groq API)** to provide intelligent activity classification and health audits.
 
-![Contexto AI Banner](https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter)
 ![AI-Powered](https://img.shields.io/badge/AI-Llama_3.3-orange?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-Protected-green?style=for-the-badge)
 
 ---
 
 ## 📽️ Project Demo
-*(Upload your Canva GIF/Video here to showcase your dashboard!)*
-> **[Add your GIF link here]**
+
+Pesh hai aapka AI-powered wellness dashboard jo real-time sensors par kaam karta hai:
+
+![Contexto AI Demo](https://github.com/haseeb0123/Contexto-AI-Wellness-Dashboard/blob/main/demo.gif?raw=true)
 
 ---
 
